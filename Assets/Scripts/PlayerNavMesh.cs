@@ -5,7 +5,9 @@ using UnityEngine.AI;
 
 public class PlayerNavMesh : MonoBehaviour
 {
+    public Transform meta;
     private NavMeshAgent navMeshAgent;
+    
     private void Awake()
     {
         // Get the reference of NavMeshAgent component from gameObject
@@ -20,6 +22,6 @@ public class PlayerNavMesh : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        navMeshAgent.destination = meta.position;
     }
 }
