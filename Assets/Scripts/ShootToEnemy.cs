@@ -1,33 +1,37 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-/// <summary>
-/// Shooting class behaviour
-/// </summary>
-public class ShootToEnemy : MonoBehaviour
+
+namespace dnorambu
 {
-    [SerializeField]
-    GameObject bullet;
-    // Start is called before the first frame update
-    void Start()
+    /// <summary>
+    /// Shooting class behaviour
+    /// </summary>
+    public class ShootToEnemy : MonoBehaviour
     {
-        //InvokeRepeating();
-        if(bullet == null)
+        [SerializeField]
+        GameObject bullet;
+        // Start is called before the first frame update
+        void Start()
         {
-            Debug.LogError("There is no bullte prefab");
+            //InvokeRepeating();
+            if (bullet == null)
+            {
+                Debug.LogError("There is no bullte prefab");
+            }
+        }
+
+        // Update is called once per frame
+        void Update()
+        {
+
+        }
+
+        //Shooting
+        private void Shoot()
+        {
+            GameObject bulletCopy = Instantiate(bullet, transform.position, Quaternion.identity);
+
         }
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    //Shooting
-    private void Shoot()
-    {
-        GameObject bulletCopy = Instantiate(bullet, transform.position, Quaternion.identity);
-
-    } 
 }
