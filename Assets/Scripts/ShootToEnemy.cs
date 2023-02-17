@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/// <summary>
+/// Shooting class behaviour
+/// </summary>
 public class ShootToEnemy : MonoBehaviour
 {
     [SerializeField]

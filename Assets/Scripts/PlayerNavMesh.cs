@@ -2,9 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
-
+/// <summary>
+/// Dunno
+/// </summary>
 public class PlayerNavMesh : MonoBehaviour
 {
+    /// <summary>
+    /// Se ve pajero esto
+    /// </summary>
     public Transform meta;
     private NavMeshAgent navMeshAgent;
     
@@ -23,5 +28,14 @@ public class PlayerNavMesh : MonoBehaviour
     void Update()
     {
         navMeshAgent.destination = meta.position;
+    }
+    /// <summary>
+    /// Dummy method
+    /// </summary>
+    /// <returns></returns>
+    public static float FloatReturnMethod()
+    {
+        Debug.Log("FloatReturnMethod");
+        return 1.0f;
     }
 }
