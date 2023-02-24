@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("fla",["Variable"],[["flags",,[["dnorambu.TestClass",,,,0,"File:TestClass.cs:dnorambu.TestClass.flags","CSharpClass:dnorambu.TestClass:flags"]]]]);

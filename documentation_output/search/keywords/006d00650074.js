@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("met",["Variable"],[["meta",,[["dnorambu.PlayerNavMesh",,,,0,"File:PlayerNavMesh.cs:dnorambu.PlayerNavMesh.meta","CSharpClass:dnorambu.PlayerNavMesh:meta"]]]]);

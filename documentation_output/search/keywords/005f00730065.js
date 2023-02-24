@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("_se",["Variable"],[["_selectedMethodIndex",,[["dnorambu.TestClass",,,,0,"File:TestClass.cs:dnorambu.TestClass._selectedMethodIndex","CSharpClass:dnorambu.TestClass:_selectedMethodIndex"]]]]);

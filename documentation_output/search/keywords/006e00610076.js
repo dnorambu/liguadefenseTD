@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("nav",["Variable"],[["navMeshAgent",,[["dnorambu.PlayerNavMesh",,,,0,"File:PlayerNavMesh.cs:dnorambu.PlayerNavMesh.navMeshAgent","CSharpClass:dnorambu.PlayerNavMesh:navMeshAgent"]]]]);

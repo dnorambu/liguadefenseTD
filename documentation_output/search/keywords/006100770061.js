@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("awa",["Function"],[["Awake",,[["dnorambu.PlayerNavMesh",,,,0,"File:PlayerNavMesh.cs:dnorambu.PlayerNavMesh.Awake","CSharpClass:dnorambu.PlayerNavMesh:Awake"],["dnorambu.TestClass",,,,0,"File:TestClass.cs:dnorambu.TestClass.Awake","CSharpClass:dnorambu.TestClass:Awake"]]]]);

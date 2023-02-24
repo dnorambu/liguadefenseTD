@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("sho",["Function","Class"],[["Shoot",,[["dnorambu.ShootToEnemy",,,,0,"File:ShootToEnemy.cs:dnorambu.ShootToEnemy.Shoot","CSharpClass:dnorambu.ShootToEnemy:Shoot"]]],["ShootToEnemy",,[["dnorambu",,,,1,"File:ShootToEnemy.cs:dnorambu.ShootToEnemy","CSharpClass:dnorambu.ShootToEnemy"]]]]);

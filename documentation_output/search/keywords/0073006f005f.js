@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("so_",["Class"],[["SO_BaseTester",,[["dnorambu",,,,0,"File:ScriptableObjects/SO_BaseTester.cs:dnorambu.SO_BaseTester","CSharpClass:dnorambu.SO_BaseTester"]]]]);

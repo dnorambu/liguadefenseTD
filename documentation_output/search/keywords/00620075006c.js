@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("bul",["Variable"],[["bullet",,[["dnorambu.ShootToEnemy",,,,0,"File:ShootToEnemy.cs:dnorambu.ShootToEnemy.bullet","CSharpClass:dnorambu.ShootToEnemy:bullet"]]]]);

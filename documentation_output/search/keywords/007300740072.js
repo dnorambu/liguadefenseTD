@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("str",["Function"],[["StringReturnMethod",,[["dnorambu.TestClass",,,,0,"File:TestClass.cs:dnorambu.TestClass.StringReturnMethod","CSharpClass:dnorambu.TestClass:StringReturnMethod"]]]]);

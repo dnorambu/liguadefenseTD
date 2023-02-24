@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("res",["Function"],[["ResetMethods",,[["dnorambu.TestClass",,,,0,"File:TestClass.cs:dnorambu.TestClass.ResetMethods","CSharpClass:dnorambu.TestClass:ResetMethods"]]]]);

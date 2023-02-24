@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("hit",["Variable"],[["hitInfo",,[["dnorambu.PlayerNavMesh",,,,0,"File:PlayerNavMesh.cs:dnorambu.PlayerNavMesh.hitInfo","CSharpClass:dnorambu.PlayerNavMesh:hitInfo"]]]]);

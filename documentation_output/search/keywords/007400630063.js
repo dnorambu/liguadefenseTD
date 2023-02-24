@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("tcc",["Function"],[["TcCaller",,[["dnorambu.TestScript",,,,0,"File:TestScript.cs:dnorambu.TestScript.TcCaller","CSharpClass:dnorambu.TestScript:TcCaller"]]]]);

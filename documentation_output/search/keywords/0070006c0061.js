@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("pla",["Class"],[["PlayerNavMesh",,[["dnorambu",,,,0,"File:PlayerNavMesh.cs:dnorambu.PlayerNavMesh","CSharpClass:dnorambu.PlayerNavMesh"]]]]);
