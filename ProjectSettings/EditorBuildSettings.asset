@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/ReflectionBenchmark.unity
+    path: Assets/_Project/Scenes/ReflectionBenchmark.unity
     guid: b5323186cee249540a6194012468ea10
   m_configObjects: {}

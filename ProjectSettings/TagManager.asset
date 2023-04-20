@@ -3,12 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Candice Agent
+  - Enemy
+  - CandiceVSFX
+  - Projectile
+  - Waypoint
+  - PlayerHealthBar
+  - CandiceEnvironment
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Floor
   - Water
   - UI
   - 

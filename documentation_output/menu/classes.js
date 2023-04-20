@@ -1,1 +1,1 @@
-﻿NDMenu.OnSectionLoaded("classes.js",[[1,"PlayerNavMesh"],[1,"Seeker"],[1,"ShootToEnemy"],[1,"SO_BaseTester"],[1,"TestClass"],[1,"TestScript"],[1,"TestScriptDrawer"]]);
+﻿NDMenu.OnSectionLoaded("classes.js",[[1,"PlayerNavMesh"],[1,"Seeker"],[1,"ShootToEnemy"],[1,"SO_BaseTester"],[1,"TestClass"],[1,"TestScript"],[2,"TestScript","CSharpClass:dnorambu.TestScript.",[[1,"Test"],[1,"Test2"]]],[1,"TestScriptDrawer"]]);

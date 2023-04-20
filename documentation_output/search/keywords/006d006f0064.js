@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mod",["Constant"],[["Modes",,[["dnorambu.TestScript","Counter Modes",,,0,"File:TestScript.cs:dnorambu.TestScript.Counter_Modes","CSharpClass:dnorambu.TestScript:Counter_Modes"]]]]);

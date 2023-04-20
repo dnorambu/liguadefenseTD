@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("mai",["Function"],[["Main",,[["dnorambu.TestScript.Test",,,,0,"File:TestScript.cs:dnorambu.TestScript.Test.Main","CSharpClass:dnorambu.TestScript.Test:Main"]]]]);

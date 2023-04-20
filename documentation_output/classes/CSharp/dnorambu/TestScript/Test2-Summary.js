@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:dnorambu.TestScript.Test2","Test2");NDSummary.OnSummaryLoaded("CSharpClass:dnorambu.TestScript.Test2",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[59,0,0,"<span class=\"Qualifier\">dnorambu.&#8203;TestScript.</span>&#8203;Test2"],[60,0,2,"Functions","Functions"],[61,0,1,"Test","Test"]]);
